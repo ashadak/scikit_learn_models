@@ -1,2 +1,2 @@
-# scikit_learn_classificion
+# scikit_learn_classification
 Exploring Scikit-Learn's classification models.
